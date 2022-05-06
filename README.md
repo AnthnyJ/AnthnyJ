@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @AnthnyJ
+- 👀 I’m interested in ... Game Development (specifically through mods by a dedicated community)
+- 🌱 I’m currently learning ... Unreal Engine 5 and C++
+- 💞️ I’m looking to collaborate on ... projects that use java, c++, c#, and also Unreal Engine Blueprint.
+- 📫 How to reach me ...
+- Email: anthonycabral011@gmail.com
